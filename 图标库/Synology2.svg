@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-size: 55px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #06f;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="128" height="128"/>
+  <text class="cls-1" transform="translate(2.57 79.51)"><tspan x="0" y="0">DSM</tspan></text>
+</svg>
